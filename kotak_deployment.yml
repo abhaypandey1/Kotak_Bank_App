@@ -4,7 +4,7 @@ kind: ReplicaSet
 metadata:
   name: kotakapprs
 spec:
-  replicas: 3
+  replicas: 1
   selector: 
     matchLabels:
       app: kotakapp

@@ -14,5 +14,7 @@
     In the early 1990s, the company started car financing and investment banking services, and expanded its operations overseas. In 1996, car financing company Kotak Mahindra Primus was incorporated as a 60:40 joint venture between Kotak Mahindra Finance and Ford Credit International. In the same year, Kotak Mahindra Finance hived off its investment banking division into a new company, Kotak Mahindra Capital, started in partnership with Goldman Sachs. 
   </p>
   
+  <h3> Chemistry </h3>
+  
   </body>
 </html>
